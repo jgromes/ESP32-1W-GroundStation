@@ -1,0 +1,27 @@
+Partlist exported from C:/Users/jangr/Documents/EAGLE/projects/FOSSA-GS/v2/gs.sch at 17.11.2020 19:53
+
+Qty Value        Device          Package                   Parts          Description                                           POPULARITY SPICEPREFIX TME              
+1                DCJ0303         DCJ0303                   J2             DC POWER JACK                                                                1613-21          
+3                LEDCHIP-LED0805 CHIP-LED0805              IO2, PWR, TX   LED                                                   68                     KP-2012LSURCK    
+1                PINHD-2X7       2X07                      JP1            PIN HEADER                                            8                                       
+3   100n         C-EUC0805       C0805                     C5, C7, C10    CAPACITOR, European symbol                            88         C           CC0805KRX7R8104  
+2   10k          R-EU_R0805      R0805                     R12, R13       RESISTOR, European symbol                             86         R           SMD0805-10K      
+3   10u          C-EUC0805       C0805                     C4, C6, C8     CAPACITOR, European symbol                            88         C           CL21A106KAYNNNG  
+2   10u          CPOL-EUSMCC     SMC_C                     C1, C2         POLARIZED CAPACITOR, European symbol                  4          C           293D106X9025C2TE3
+4   12k          R-EU_R0805      R0805                     R1, R2, R4, R6 RESISTOR, European symbol                             86         R           SMD0805-12K      
+2   1u           C-EUC0805       C0805                     C3, C9         CAPACITOR, European symbol                            88         C           CC0805KKX7R8105  
+1   220          R-EU_R0805      R0805                     R11            RESISTOR, European symbol                             86         R           SMD0805-220R     
+3   470          R-EU_R0805      R0805                     R3, R5, R7     RESISTOR, European symbol                             86         R           SMD0805-470R     
+2   4k7          R-EU_R0805      R0805                     R14, R15       RESISTOR, European symbol                             86         R           SMD0805-4K7      
+3   820          R-EU_R0805      R0805                     R8, R9, R10    RESISTOR, European symbol                             86         R           SMD0805-820R     
+1   CP2102       CP2102          QFN50P500X500X100-29T300N U2                                                                                          CP2102-GM        
+1   E22-400M30S  E22-400M30S     E22-400M30S               U4                                                                                                           
+1   ESP32-SOLO-1 ESP32-SOLO-1    ESP32-SOLO-1              U3                                                                                          ESP32-SOLO-1     
+2   EVQP2F02K    EVQP2F02K       EVQP2F02K                 EN, IO0                                                                                     EVQP2F02K        
+1   LD1086DT33TR LD1086DT33TR    TO228P972X240-3N          U1                                                                                          LD1086DT33TR     
+1   OLED_128X64  OLED_128X64     OLED_128X64               OLED                                                                                                         
+4   S8050        S8050           SOT95P237X110-3N          Q1, Q2, Q3, Q4                                                                              MMSS8050-H-TP    
+1   SMA          SMA             SMA                       X1             SMA 50 Ohm End Launch Jack Receptacle - Round Contact                        RF2145AT1750GHDW 
+1   STPS2L30A    STPS2L30A       DIOM4225X245N             D1                                                                                          STPS2L30A        
+1   SWITCH-SLIDE SWITCH-SLIDE    SWITCH-SLIDE              S1                                                                                          OS103011MA7QP1   
+1   USB-B-MICRO  USB-B-MICRO     USB-B-MICRO               J1                                                                                          10118193-0001LF/C
