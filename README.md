@@ -1,6 +1,8 @@
 # ESP32-1W-GroundStation
 ESP32-based LoRa ground station
 
+<img src="https://raw.githubusercontent.com/jgromes/ESP32-1W-GroundStation/master/doc/photo1.jpg"/>
+
 ## Features:
 * Fully compatible with https://github.com/G4lile0/ESP32-OLED-Fossa-GroundStation
 * Radio: Ebyte E22-400M30S (http://www.ebyte.com/en/product-view-news.aspx?id=454)
