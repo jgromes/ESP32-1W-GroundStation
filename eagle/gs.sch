@@ -627,7 +627,7 @@ Source: www.johnsoncomponents.com .. J502-ND.pdf</description>
 </package3d>
 </packages3d>
 <symbols>
-<symbol name="ESP32-SOLO-1" urn="urn:adsk.eagle:symbol:24422545/1" library_version="2">
+<symbol name="ESP32-WROOM-32D" urn="urn:adsk.eagle:symbol:26278691/1" library_version="25">
 <pin name="GND@1" x="-38.1" y="35.56" visible="pin" length="middle"/>
 <pin name="3V3" x="-38.1" y="30.48" visible="pin" length="middle"/>
 <pin name="EN" x="-38.1" y="25.4" visible="pin" length="middle"/>
@@ -675,7 +675,7 @@ Source: www.johnsoncomponents.com .. J502-ND.pdf</description>
 <wire x1="33.02" y1="45.72" x2="33.02" y2="66.04" width="0.254" layer="94"/>
 <wire x1="33.02" y1="45.72" x2="-33.02" y2="45.72" width="0.254" layer="94"/>
 <text x="-33.02" y="68.58" size="2.54" layer="95">&gt;NAME</text>
-<text x="0" y="55.88" size="5.08" layer="94" align="center">ESP32-SOLO-1</text>
+<text x="0" y="55.88" size="4.572" layer="94" align="center">ESP32-WROOM-32D</text>
 </symbol>
 <symbol name="CP2102" urn="urn:adsk.eagle:symbol:24427035/2" library_version="5">
 <pin name="D+" x="-30.48" y="0" visible="pin" length="middle"/>
@@ -918,9 +918,9 @@ Source: www.johnsoncomponents.com .. J502-ND.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESP32-SOLO-1" urn="urn:adsk.eagle:component:24422548/3" prefix="U" library_version="24">
+<deviceset name="ESP32-WROOM-32D" urn="urn:adsk.eagle:component:26278692/1" prefix="U" library_version="25">
 <gates>
-<gate name="G$1" symbol="ESP32-SOLO-1" x="0" y="0"/>
+<gate name="G$1" symbol="ESP32-WROOM-32D" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="ESP32-SOLO-1">
@@ -970,7 +970,7 @@ Source: www.johnsoncomponents.com .. J502-ND.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
-<attribute name="TME" value="ESP32-SOLO-1" constant="no"/>
+<attribute name="TME" value="ESP32-WROOM-32D" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -20219,7 +20219,7 @@ DIN A4, with small doc field</description>
 </class>
 </classes>
 <parts>
-<part name="U3" library="fossa" library_urn="urn:adsk.eagle:library:24422541" deviceset="ESP32-SOLO-1" device="" package3d_urn="urn:adsk.eagle:package:24422546/2"/>
+<part name="U3" library="fossa" library_urn="urn:adsk.eagle:library:24422541" deviceset="ESP32-WROOM-32D" device="" package3d_urn="urn:adsk.eagle:package:24422546/2"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>

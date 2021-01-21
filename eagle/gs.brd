@@ -2345,9 +2345,9 @@ design rules under a new name.</description>
 <attribute name="TME" value="SMD0805-12K" x="21.336" y="5.461" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="20.701" y="2.921" size="1.27" layer="27"/>
 </element>
-<element name="U3" library="fossa" library_urn="urn:adsk.eagle:library:24422541" package="ESP32-SOLO-1" package3d_urn="urn:adsk.eagle:package:24422546/2" value="ESP32-SOLO-1" x="43.688" y="36.195" smashed="yes">
+<element name="U3" library="fossa" library_urn="urn:adsk.eagle:library:24422541" package="ESP32-SOLO-1" package3d_urn="urn:adsk.eagle:package:24422546/2" value="ESP32-WROOM-32D" x="43.688" y="36.195" smashed="yes">
 <attribute name="NAME" x="34.307" y="23.025" size="0.8128" layer="25" align="top-right"/>
-<attribute name="TME" value="ESP32-SOLO-1" x="94.488" y="22.225" size="1.778" layer="27" display="off"/>
+<attribute name="TME" value="ESP32-WROOM-32D" x="94.488" y="22.225" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U4" library="fossa" library_urn="urn:adsk.eagle:library:24422541" package="E22-400M30S" package3d_urn="urn:adsk.eagle:package:24427036/2" value="E22-400M30S" x="75.692" y="19.812" smashed="yes" rot="R270">
 <attribute name="NAME" x="56.072" y="7.546" size="0.8128" layer="51" align="top-right"/>
